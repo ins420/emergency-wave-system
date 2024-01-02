@@ -22,7 +22,7 @@
 
 ---
 ### 1. What is C-ITS?
-<img src="src/c-its.png" style="width:600px;margin-left:15px;"><br>
+<img src="src/c-its.png" style="width:600px;margin-left:30px;"><br>
 - Vehicles and road infrastructure exchange traffic information in real time through two-way communication.
 - Improved road safety and mobility
 - Providing safety services through ‘V2X communication’
